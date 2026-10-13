@@ -1,0 +1,3 @@
+# RD-73 non-default branch scan fixture
+# All key-shaped values below are inert placeholders, never issued credentials.
+fixture_access_id = "AKIAQQQQQQQQQQQQQQQQ"
